@@ -1,0 +1,52 @@
+-------------------------Sites---------------------------
+
+materia de JS no link https://codeshare.io/estacaohack6revisao
+EXEMPLO DOM >>> https://github.com/estacaohack6/301-exemplos-dom
+SOM MP3 ABERTURA SONIC >>> http://66.90.93.122/ost/sonic-the-hedgehog-original-soundtrack/pzhpcmhh/01%20Title%20Screen.mp3
+EXERCICIO DE HOJE >>> https://github.com/estacaohack6/402-exemplo-banner
+HTML FORMS >>> https://www.w3schools.com/html/html_forms.asp
+https://github.com/estacaohack6/301-exemplos-dom/blob/master/script.js
+
+-------------------Explicações--------------------------
+
+Para tocar sons,videos e etc é só usar o comando -- NomedoSom.play();
+defer == Faz o JS rodar no final
+imagens[0].classList.classenohtml('ativa'); ele pega uma classe e adiciona em um elemento do html, como a classe fazia uma animação no css,
+quando ele adicionou, a classe cumpriu sua programação e fez as imagens moverem.
+
+
+Alguem tem duvida com isso?? (Banner)
+
+
+
+
+
+
+-----------------------Código---------------------------
+  
+FORM ------- FORM ------FORM ------- FORM ------FORM ------- FORM ------FORM ------- FORM ------
+
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+    
+FORM ------- FORM ------FORM ------- FORM ------FORM ------- FORM ------FORM ------- FORM ------
+  
+Não se esqueçam de colocar let somCorrida = new Audio('NomedoAudio.mp3') <<< Lá em cima, para defini-lo
+                                                                             
+dica de site: http://queroserprogramador.com/validando-formularios-com-javascript/                                                                                                                                                       
+                                                                             
+http://github.com/estacaohack5/303-memoria
+
+https://estacaohack5.github.io/303-memoria/
+                                                                             
+                                                                             
+                                                                             
